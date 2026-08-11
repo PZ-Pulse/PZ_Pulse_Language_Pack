@@ -1,0 +1,10 @@
+name=PZ Pulse - LANGUAGE
+id=PZ_Pulse_Lang_XX
+description=LANGUAGE translation for PZ Pulse.
+poster=poster.png
+icon=poster.png
+author=YOURNAME
+category=features
+require=PZ_Pulse
+modversion=1.0.0
+versionMin=42.0.0

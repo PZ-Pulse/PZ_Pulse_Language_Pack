@@ -1,0 +1,10 @@
+name=PZ Pulse Language Pack
+id=PZ_Pulse_Language_Pack
+description=PZ Pulse in all 27 languages Project Zomboid ships. Set your game language and the dashboard follows.
+poster=poster.png
+icon=poster.png
+author=qwerto
+category=features
+require=PZ_Pulse
+modversion=0.1.0
+versionMin=42.0.0

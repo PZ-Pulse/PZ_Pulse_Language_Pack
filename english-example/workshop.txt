@@ -1,0 +1,10 @@
+version=1
+id=
+title=PZ Pulse - LANGUAGE
+description=LANGUAGE translation for PZ Pulse.
+description=
+description=Subscribe to this alongside [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3753700423]PZ Pulse[/url] and set your game language to LANGUAGE. The dashboard follows the game.
+description=
+description=This pack contains only text. It changes nothing else.
+tags=Build 42;Interface;Translation
+visibility=public

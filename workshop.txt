@@ -1,0 +1,19 @@
+version=1
+id=3781404865
+title=PZ Pulse Language Pack
+description=PZ Pulse speaks every language Project Zomboid does. Subscribe alongside [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3753700423]PZ Pulse[/url], set your game language, and the dashboard follows it.
+description=
+description=[h1]All 27 languages[/h1]
+description=Cestina, Dansk, Deutsch, Espanol (Espana, Argentina, Chile, Mexico), Francais, Italiano, Magyar, Nederlands, Norsk, Polski, Portugues (Portugal, Brasil), Romana, Suomi, Turkce, Catala, Bahasa Indonesia, Russian, Ukrainian, Japanese, Korean, Thai, and Chinese in both Simplified and Traditional.
+description=
+description=[h1]It may shock you to learn this, but I do not in fact speak every language.[/h1]
+description=About a third of the pack is the game's own vocabulary. Where Project Zomboid already has a word for Hunger, Fracture or Endurance, this pack uses that word instead of inventing a second one, so the dashboard reads the same as the character window beside it.
+description=
+description=The rest is machine-generated and has not been checked by a native speaker. It is meant as a starting point, not as a finished translation.
+description=
+description=[h1]Found a bad string?[/h1]
+description=Corrections are very welcome. Say the language, the label you saw, and what it should be, and it goes into the next update. Alternatively, just make a better language pack and let this one serve as an example of how to do it. I am not formally entering the translation business.
+description=
+description=This pack is text and nothing else. It also does not need to be installed on the server you play on - the game loads a translation mod for you either way.
+tags=Build 42;Interface;Translation
+visibility=public

@@ -1,0 +1,17 @@
+# Line endings, pinned the same way the source repo pins them.
+#
+# Without this, Git for Windows (core.autocrlf=true, set system-wide) rewrites
+# every checked-out file to CRLF, and the staging copy then reports permanent
+# `drift` and `line-endings` against its source -- one warning per locale file,
+# forever, on a tree that is otherwise byte-correct.
+* text=auto eol=lf
+
+# The 27 locale files and the English example are read and edited by translators
+# on every platform, and a diff that is entirely line endings hides the one word
+# a correction actually changed.
+*.json text eol=lf
+*.txt  text eol=lf
+*.md   text eol=lf
+
+# Binary, so Git must not touch them at all.
+*.png binary
