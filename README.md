@@ -83,7 +83,3 @@ them - that's the point of them being placeholders.
 and `preview.png` here are plain placeholders rather than the real card art. If you publish a pack
 of your own, it wants its own image anyway. Can be EKG themed or EKG in a corner as long
 as it's not confusing.
-
----
-
-Thank you - genuinely. A second-screen dashboard you can't read is just wallpaper.
