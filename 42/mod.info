@@ -6,5 +6,5 @@ icon=poster.png
 author=qwerto
 category=features
 require=PZ_Pulse
-modversion=0.1.1
+modversion=0.1.2
 versionMin=42.0.0
