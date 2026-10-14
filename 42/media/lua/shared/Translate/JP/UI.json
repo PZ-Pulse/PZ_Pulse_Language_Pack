@@ -168,7 +168,7 @@
     "UI_PZ_Pulse_Ext_MenuTitle": "拡張パネル",
     "UI_PZ_Pulse_Ext_ReloadNote": "拡張モッドの変更がゲームから報告されると、このページは自動的に再読み込みされます。自分で再読み込みするには F5 キーを押してください。",
     "UI_PZ_Pulse_Ext_ForceReloadTip": "拡張に変更がなくても、ゲームが起動するたびにこのページを再読み込みします。",
-    "UI_PZ_Pulse_Close": "終了",
+    "UI_PZ_Pulse_Close": "閉じる",
     "UI_PZ_Pulse_Hidden_Title": "パネルを追加",
     "UI_PZ_Pulse_Hidden_None": "すべてのパネルが表示されています",
     "UI_PZ_Pulse_Drawer_Default": "デフォルトパネル",

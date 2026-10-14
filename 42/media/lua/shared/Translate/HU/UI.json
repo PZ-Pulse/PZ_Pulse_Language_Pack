@@ -68,7 +68,7 @@
     "UI_PZ_Pulse_Cond": "Állapot",
     "UI_PZ_Pulse_Clo_Holes": "{1} lyuk",
     "UI_PZ_Pulse_Clo_Hole": "{1} lyuk",
-    "UI_PZ_Pulse_Wpn_Damage": "Sérülés",
+    "UI_PZ_Pulse_Wpn_Damage": "Sebzés",
     "UI_PZ_Pulse_Wpn_DamageTip": "Sérülés találatonként (min - max)",
     "UI_PZ_Pulse_Wpn_None": "Nincs fegyver a kézben",
     "UI_PZ_Pulse_Wpn_Firearm": "Lőfegyver",
